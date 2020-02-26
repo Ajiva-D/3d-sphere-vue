@@ -63,6 +63,7 @@ export default {
 html,body{
   margin: 0;
   padding: 0;
+  overflow-x:hidden;
 }
 main {
   width: 100%;
